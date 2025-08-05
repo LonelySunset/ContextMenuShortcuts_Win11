@@ -2,5 +2,5 @@
     "icon":"\"C:\\Program Files\\JetBrains\\IntelliJ IDEA\\bin\\idea64.exe\",0",
     "title":"Open in IDEA",
     "cmd":"\"C:\\Program Files\\JetBrains\\IntelliJ IDEA\\bin\\idea64.exe\" \"%1\"",
-    "name":"IntelliJ IDEA"
+    "name":"JetBrains.IDEA"
 }

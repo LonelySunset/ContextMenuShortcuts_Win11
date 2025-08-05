@@ -3,7 +3,7 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 
 # 查找 Name 为 idea 的应用程序包
-$package = Get-AppxPackage | Where-Object { $_.Name -like "*idea*" }
+$package = Get-AppxPackage | Where-Object { $_.Name -like "*JetBrains.IDEA*" }
 
 if ($package) {
     # 显示找到的包信息
@@ -16,7 +16,7 @@ if ($package) {
     Remove-AppxPackage -Package $package.PackageFullName
     Write-Host "已成功卸载 $($package.PackageFullName)"
 } else {
-    Write-Host "未找到名称为 idea 的应用程序包"
+    Write-Host "未找到 intellij idea 应用程序包"
 }
 
 # 按任意键退出
