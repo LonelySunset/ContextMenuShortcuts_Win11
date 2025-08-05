@@ -2,5 +2,5 @@
     "icon":"\"C:\\Program Files\\JetBrains\\WebStorm\\bin\\webstorm64.exe\",0",
     "title":"Open in WebStorm",
     "cmd":"\"C:\\Program Files\\JetBrains\\WebStorm\\bin\\webstorm64.exe\" \"%1\"",
-    "name":"WebStorm"
+    "name":"JetBrains.WebStorm"
 }
