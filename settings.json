@@ -1,6 +1,6 @@
 {
-    "icon":"\"C:\\Program Files\\Everything\\Everything.exe\",0",
-    "title":"搜索Everything",
-    "cmd":"\"C:\\Program Files\\Everything\\Everything.exe\" -path \"%1\"",
-    "name":"Everything",
+    "icon":"\"C:\\Program Files\\JetBrains\\WebStorm\\bin\\webstorm64.exe\",0",
+    "title":"Open in WebStorm",
+    "cmd":"\"C:\\Program Files\\JetBrains\\WebStorm\\bin\\webstorm64.exe\" -path \"%1\"",
+    "name":"WebStorm",
 }
